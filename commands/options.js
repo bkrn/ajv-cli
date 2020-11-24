@@ -53,7 +53,8 @@ var AJV_OPTIONS = {
                             { type: 'boolean' },
                             { enum: ['array'] }
     ] },
-    'add-used-schema':  { type: 'boolean' }
+    'add-used-schema':  { type: 'boolean' },
+    'nullable' :  { type: 'boolean' }
 };
 
 
