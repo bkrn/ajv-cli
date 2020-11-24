@@ -219,6 +219,7 @@ You can pass the following Ajv options (excluding `migrate` command):
 |`--multiple-of-precision`|precision of multipleOf, pass integer number|
 |`--error-data-path=property`|data path in errors|
 |`--messages=false`|do not include text messages in errors|
+|`--nullable=false`|allow use of `nullable` keyword from open api v3|
 
 Options can be passed in either dash-case and camelCase.
 
